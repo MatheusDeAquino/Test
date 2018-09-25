@@ -9,7 +9,7 @@ namespace ConsoleApp1
         static void Main(string[] args) {
             Console.WriteLine("Testando Git!");
             Console.WriteLine("Bom dia, galera!");
-            Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Como você esta");
             Console.ReadLine();
         }
         
