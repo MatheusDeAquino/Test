@@ -1,0 +1,11 @@
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Matheus\Programação 2018\Git Gitbub\Tetse para Git\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
